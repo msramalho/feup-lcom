@@ -1,0 +1,32 @@
+This is an example of file content, all of the content should be regarded as just letters and not by its meaning!!!!!
+
+
+
+
+<html>
+
+    <h1>TITLE</h1>
+</html>
+
+
+---------------
+---------------
+---------------
+---------------
+---------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+//Comments in C language
+
+int funcao_em_c(unsigned long x, char * c){
+  if(x == 10){
+    return c;
+  }else{
+    return (char) (((int)c)+1);
+  } 
+}
+
+
+-------------------------------
+#Markup as well

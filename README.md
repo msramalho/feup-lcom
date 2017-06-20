@@ -10,4 +10,4 @@ Univeristy Subject - Computer Laboratory
  - Interrupts and Interrupts Handling
  - Mouse, Keyboard, Timer, RTC, Video Card control
  - Command line arguments
- - [Text editor](https://github.com/msramalho/feup-lcom/proj)
+ - Final Project: [Text editor](https://github.com/msramalho/feup-lcom/tree/master/proj)
